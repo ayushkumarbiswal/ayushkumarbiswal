@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:04121F,50:0B3B4F,100:14B8A6&text=AYUSH%20KUMAR%20BISWAL&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Product%20Analyst%20%7C%20Researcher%20%7C%20Problem%20Finder&descAlignY=58&descSize=17" width="100%" alt="Ayush Kumar Biswal banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:04121F,50:0B3B4F,100:14B8A6&text=AYUSH%20KUMAR%20BISWAL&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Product%20Analyst%20%7C%20Researcher%20%7C%20Empowering%Communities&descAlignY=58&descSize=17" width="100%" alt="Ayush Kumar Biswal banner" />
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/ayushkumarbiswal"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:ayushkumarbiswal@zohomail.in"><img src="https://img.shields.io/badge/Email-Let's%20talk-0D9488?style=for-the-badge&logo=zoho&logoColor=white" alt="Email" /></a>
 
 <br />
@@ -17,7 +17,7 @@
 ## `01 / THE MIND BEHIND THE PRODUCT`
 
 Hey, I'm **Ayush Kumar Biswal** 👋  
-Product Analyst Intern at **Grant Thornton Bharat** (Digital · dGTL), Bengaluru.
+Product Intern at **Grant Thornton Bharat** (Digital · dGTL), Bengaluru.
 
 I start where most builds skip: the problem. Surveys, stakeholder interviews, and a lot of reading come first. Then I turn what I learn into product decisions, AI workflows, and working prototypes.
 
