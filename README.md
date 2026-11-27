@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:04121F,50:0B3B4F,100:14B8A6&text=AYUSH%20KUMAR%20BISWAL&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Research%20and%20Strategy%20%7C%20Empowering%20Communities%20%7C%20Building%20Tech%20for%20Social%20Good&descAlignY=58&descSize=17" width="100%" alt="Ayush Kumar Biswal banner" />
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/ayushkumarbiswal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/ayushkumarbiswal"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="mailto:ayushkumarbiswal@zohomail.in"><img src="https://img.shields.io/badge/Email-Let's%20talk-0D9488?style=for-the-badge&logo=zoho&logoColor=white" alt="Email" /></a>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=14B8A6&center=true&vCenter=true&width=720&lines=Product+Analyst+Intern+%40+Grant+Thornton+Bharat;Research+%7C+Product+Thinking+%7C+Applied+AI;Ask+better+questions.+Build+better+products." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=700&color=14B8A6&center=true&vCenter=true&width=720&lines=Product+Intern+%40+Grant+Thornton+Bharat;Research+%7C+Product+Thinking+%7C+Applied+AI;Ask+better+questions.+Build+better+products." alt="Animated introduction" />
 
 </div>
 
@@ -66,42 +66,7 @@ Ship features, dashboards, and workflows that teams actually use.
 
 ---
 
-## `03 / CURRENTLY AT GRANT THORNTON`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏦 AI for Banking
-Agentic workflows for customer-support back-office operations at **MONETA Money Bank**.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 dGTL Platforms
-Feature enhancements and bug fixes across **dGTL Pulse** and **dGTL Core**.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧪 AI Evaluation
-External testing and RAG evaluation of **NUCFDC's Sahakar SahaYogi**, an AI platform for urban co-operative banks.
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Insights & Public Impact
-Conversational-intelligence PoC for **Canara HSBC Life**, MIS dashboards for GT's national management team, and a tech-led crowd management plan for **Simhastha Kumbh Mela, Ujjain**.
-
-</td>
-</tr>
-</table>
-
----
-
-## `04 / SELECTED BUILDS`
+## `03 / SELECTED BUILDS`
 
 <table>
 <tr>
@@ -158,7 +123,7 @@ A portable humanoid assistant for people with disabilities.
 
 ---
 
-## `05 / THE JOURNEY`
+## `04 / THE JOURNEY`
 
 | When | Where | What I did |
 |---|---|---|
@@ -170,7 +135,7 @@ A portable humanoid assistant for people with disabilities.
 
 ---
 
-## `06 / THE TROPHY SHELF`
+## `05 / THE TROPHY SHELF`
 
 <div align="center">
 
@@ -189,7 +154,7 @@ A portable humanoid assistant for people with disabilities.
 
 ---
 
-## `07 / MY TOOLKIT`
+## `06 / MY TOOLKIT`
 
 <div align="center">
 
@@ -230,20 +195,7 @@ A portable humanoid assistant for people with disabilities.
 
 ---
 
-## `08 / GITHUB SIGNALS`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## `09 / WHAT'S NEXT`
+## `07 / WHAT'S NEXT`
 
 - Product analytics and data-driven decision making
 - Evaluating and improving AI products before they ship
