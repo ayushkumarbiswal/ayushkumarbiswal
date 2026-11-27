@@ -18,7 +18,7 @@
 
 Hey, I'm **Ayush Kumar Biswal** 👋
 
-B.Tech Computer Science & Engineering student at **GIET University (2027)** and currently an **Intern in Transformation Consulting at Grant Thornton Bharat**, Bengaluru (Digital · dGTL).
+B.Tech Computer Science & Engineering student at **GIET University (2027)** and currently an **Intern in Transformation Consulting at Grant Thornton Bharat**, Bengaluru.
 
 I am interested in the intersection of **product, research, strategy, and technology**.
 
@@ -183,13 +183,10 @@ An initiative exploring IoT-enabled solutions for crop protection and sustainabl
 | Period | Organization | Experience |
 |---|---|---|
 | May 2026 – Present | **Grant Thornton Bharat** | Transformation Consulting Intern – Digital (dGTL); product and AI-related workflows, platform features, and evaluation |
-| Oct 2025 – Oct 2026 | **GDG on Campus, GIETU** | Research Development Lead; mentoring, innovation, technical learning, and community building |
 | May – Jul 2025 | **Miracle Software Systems** | Summer Intern; 10+ Spring Boot REST APIs, database optimization, and React development |
 | Dec 2024 – Mar 2025 | **eVidyaloka Trust** | Education Volunteer; taught 20+ Grade 5 students in rural Odisha |
 | Mar – Aug 2024 | **Daira Edtech** | Researcher; surveys across 3 universities and analysis of 50+ sources |
-| Jun 2024 | **Edunet Foundation** | Student Intern; IBM SkillsBuild program in AI and Cloud Computing |
 | Oct – Dec 2023 | **CyberYaan** | Student Intern; 50+ hours of hands-on cybersecurity learning |
-| Apr – Jun 2023 | **TELUS International** | Search Engine Evaluator; assessed 100+ search queries daily |
 | Jan 2022 – Jan 2023 | **Digital Impact Square** | Innovator; Crop-Ed selected for DISQovery Bootcamp and pre-incubation support |
 | Nov 2021 – Jan 2023 | **MOVIS** | Researcher; 5+ early-stage product ideas, 10+ stakeholder interviews |
 | May 2020 – Mar 2021 | **FoodEx – Need to Feed** | Researcher; grassroots food relief initiative supporting 97 flood-affected families |
@@ -215,7 +212,7 @@ An initiative exploring IoT-enabled solutions for crop protection and sustainabl
 | Sustain-A-Thon – Sharda University (2025) | Second Runner-Up |
 | Learnathon 4.0 (2025) | Winner |
 | Startup Yatra – Startup Odisha (2024) | Top 10, State Level |
-| DISQovery National Bootcamp (2022) | Qualified |
+| DISQovery National Bootcamp (2022) | Finalist |
 | Computational Agriculture Competition – IIT Bombay Techfest (2020) | First Position |
 | Innovate for an Accessible India – NASSCOM & Microsoft (2020) | Finalist |
 
@@ -279,33 +276,14 @@ A few selected credentials from my learning journey:
 - **ServiceNow** – Certified Application Developer (2026)
 - **ServiceNow** – Certified System Administrator (2026)
 - **Wipro** – Java Full Stack (2026)
-- **IISc – NPTEL** – Programming with Generative AI (2025)
-- **IIT Madras – NPTEL** – The Joy of Computing using Python (2025)
-- **Google** – Cybersecurity Professional Certificate modules (2024–2025)
+- **Google** – Cybersecurity Professional Certificate modules (2025)
 - **IBM** – Cloud Computing and Enterprise-grade AI (2024)
-- **CyberYaan** – Certified Ethical Hacker Training (2023)
 
 ---
 
-## `08 / BEYOND THE SCREEN`
-
-Technology is only one part of the journey. I'm equally interested in communities, collaboration, and the social context in which products operate.
-
-A few communities and organizations I've been part of:
-
-- Research Development Lead – Google Developer Groups on Campus, GIETU
-- Office Bearer – Association of Students of Computer Science and Engineering
-- Technical Team Member – Cybersecurity Club, GIETU
-- Technical Team Member – Students' Association of Robotic Science
-- Student Member – Institution's Innovation Council
-- Volunteer – National Service Scheme
-- Student Member – Intellectual Property Facilitation Centre
-
-From mentoring peers and organizing technical events to teaching students in rural Odisha and contributing to grassroots initiatives, I've learned that meaningful impact is rarely created in isolation.
-
 ---
 
-## `09 / WHAT'S NEXT`
+## `08 / WHAT'S NEXT`
 
 I'm particularly curious about:
 
